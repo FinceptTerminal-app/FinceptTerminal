@@ -59,7 +59,7 @@ Latest release: **v4.0.3** — [View all releases](../../releases)
 
 | Platform | Download | Run |
 |----------|----------|-----|
-| **Windows x64** | [FinceptTerminal-Windows-x64-setup.exe](../../releases) | Run installer → launch `FinceptTerminal.exe` |
+| **Windows x64** | [FinceptTerminal-x64.7z](../../releases) | Run installer → launch `FinceptTerminal.exe` |
 | **Linux x64** | [FinceptTerminal-Linux-x64.run](../../releases) | `chmod +x` → run installer |
 | **macOS Apple Silicon** | [FinceptTerminal-macOS-arm64.dmg](../../releases) | Open DMG → drag to Applications |
 
